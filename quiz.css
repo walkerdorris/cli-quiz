@@ -1,0 +1,20 @@
+* {
+	font-family: Arial;
+}
+p {
+	font-family: Tahoma;
+}
+
+mark {
+	background-color: yellow;
+	color: black;
+}
+
+body {
+	width: 65%;
+}
+
+
+aside {
+	width: 30%;
+}
